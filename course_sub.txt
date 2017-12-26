@@ -1,0 +1,100 @@
+9210 9410 9430	5 6 7 8	3	0	126	Advanced Technologies for Semiconductor and Display	CHEE WEE LIU	EE2	0 1 2 3 4 5 6 7 8 9 10 12 13
+9220	5 6 	3	0	56	Computing Theory	YUH-DAUH LYUU	CSIE	4 8 9
+9010	2 3 4	3	0	55	Introduction to Biomedical Engineering	AN-CHI WEI	MD	1 2 7 11 12 13
+9210 9410	5 6 7 8	3	0	19	Wide Gap Semiconductor Technologies	CHIH CHUNG YANG	BL	3 5 7 10
+9010	2 3 4	3	0	67	Introduction to Artificial Intelligence and Machine Learning	YU, TIAN-LI	MD	0 1 2 3 4 5 6 7 8 9 10 11 12 14
+9010	2 3 4	3	0	48	Principle of Communications	I-HSIANG WANG	MD	0 3 7
+9010	2	3	1	82	Electronic Circuits	CHEN, YAOW-MING	EE2	0 1 2 6 8 9 10 11 12
+9010	3	3	1	31	Electromagnetics (Ⅱ)	RUEY-BEEI WU	BL	4 6 7 9 10 11 13 14
+9220 9450	5 6 7 8	3	0	66	Algorithms for Analyzing Biological Sequences	CHAO, KUN-MAO	CSIE	0 2 6 8 11 12 13 14
+9210 9430	5 6 7 8	3	0	81	Logic Synthesis and Verification	JIE-HONG JIANG	EE2	1 3 4 7 9 10 11 13
+9010	3	3	1	64	Electromagnetics (Ⅱ)	SHAU-GANG MAO	EE2	0 1 2 7 11 12
+9020	2	3	1	92	Algorithm Design and Analysis	YUN-NUNG CHEN	CSIE	0 4 6 7 8 10 14
+9010	1	3	1	50	Computer Programming	TSUNG-NAN LIN	BL	0 1 2 3 4 7 8 9 11 12 13 14
+9210 9420	5 6 7 8	3	0	34	Digital Color Image Processing	SOO-CHANG PEI	EE2	0 1 2 3 5 6 7 8 9 11 12 13 14
+9210 9420 9450	5 6 7 8	3	0	82	Electromagnetics Theory	YI-CHENG LIN	BL	1 6 10 12 13
+9210 9430 9450	5 6 7 8	3	0	156	Analog Integrated Circuit	JRI LEE	BL	1 2 3 4 6 8 12 13 14
+9220	5 6 7 8	3	0	47	Distributed Computing Systems	XUE ZHI-WEN	CSIE	0 1 5 9 10 11 13 14
+9010 9220 9440	2 3 4 5 6 7 8	3	0	105	Introduction to Digital Speech Processing	LIN-SHAN LEE	EE2	0 1 2 3 7 8 9 11
+9020	2 3 4	3	0	112	Computer Science and Information Technology (Ⅰ)	CHAO, KUN-MAO	CSIE	0 2 6 8 11 12 13 14
+9020	2	3	1	108	Systems Programming	CHENG PU-JEN	CSIE	1 2 3 5 6 7 10 11 12 13 14
+9210 9430	5 6 7 8	3	0	35	Software Engineering	SAO JIE CHEN	EE2	4 5 8 9 10 12 14
+9010	2	3	1	105	Engineering Mathematics-differential Equation	DING-WEI HUANG	MD	0 1 2 3 4 5 6 7 8 9 10 11 12 13
+9210 9430	5 6 7 8	3	0	94	Mos Capacitor Device	JENN GWO HWU	BL	0 1 2 3 4 5 7 8 9 10 11 13 14
+9210 9420	5 6 7 8	3	0	32	Digital Communications (Ⅰ)	HSUAN-JUNG SU	MD	1 3 4 7 8 9 12 13
+9010	2	3	1	63	Electronic Circuits	MING-HUA MAO	EE2	1 10 14
+9210 9430 9450	5 6 7 8	3	0	38	Special Topics on Parapsychology	SI-CHEN LEE	EE2	5 7 9 10 11 12 13 14
+9210 9410 9450	5 6 7 8	3	0	66	Crystal Photonics	SHENG-LUNG HUANG	EE2	3 4 5 7 10
+9010	2	3	1	50	Electronics (Ⅰ)	TSUNG-HSIEN LIN	EE2	1 4 5 7 8
+9210 9420 9430	5 6 7 8	3	0	23	Creative Cornerstone Course Design for ICT and Engineering Education	SHI CHUNG CHANG	EE2	2 5 6 9 13 14
+9470	7 8	3	1	14	Biological Computing	JIH-HWA GUH	CSIE	2 4 5 7 8 10 11 12 14
+9210 9430	5 6 7 8	3	0	66	Vlsi Testing	CHIEN-MO LI	MD	1 2 6 11 12 14
+9220 9450	5 6 7 8	3	0	50	Cheminformatics	JIH-HWA GUH	CSIE	2 4 5 7 8 10 11 12 14
+9010	3	3	1	35	Electromagnetics (Ⅱ)	JEAN-FU KIANG	BL	0 1 3 4 5 6 8 9 10 11 12 14
+9010	3	3	1	46	Electronics (Ⅲ)	JRI LEE	BL	1 2 3 4 6 8 12 13 14
+9210 9420	5 6 7 8	3	0	108	Network Planning and Management	ZSEHONG TSAI	EE2	5 6 13
+9010	3	3	1	45	Electromagnetics (Ⅱ)	TZONG-LING WU	EE2	0 3 5 10 14
+9020	1	3	0	86	Introduction to Computer	SHU HONG-MING	CSIE	4 5 6 9 12
+9010	2 3 4	3	0	82	Integrated Circuit Design	TZI-DAR CHIUEH	BL	2 3 4 5 6 10 12 14
+9210 9420	5 6 7 8	3	0	83	Data Science	MING-SYAN CHEN	BL	2 8 9 13 14
+9220 9440	5 6 7 8	3	0	27	Technical Writing and Research Method	LIN SHOU-DE	CSIE	4 7 11 12
+9010	2 3 4	3	0	85	Introduction to Power Engineering	YUAN YIH HSU	EE2	0 2 10 11 13
+9210 9420 9450	5 6 7 8	3	0	36	Introduction to the Internet of Things	Jin Fu Chang	BL	1 4 14
+9220 9440	5 6 7 8	3	0	37	Multimedia Analysis and Indexing	SHU HONG-MING	CSIE	4 5 6 9 12
+9210 9410 9450	5 6 7 8	3	0	53	Solid State Lighting	JIAN JANG HUANG	BL	0 1 2 3 4 6 10
+9210 9410 9450	5 6 7 8	3	0	21	Optical System Design	GUO-DUNG SU	MD	2 3 4 6 7 9 12
+9020	3	3	1	60	Computer Architecture	SHIH-HAO HUNG	CSIE	0 1 2 3 4 5 8 9 10 11 12 13 14
+9020	3	3	1	115	Formal Languages and Automata Theory	CHIH-JEN LIN	CSIE	0 4 8 9 10 13
+9210 9410 9430	5 6 7 8	3	0	60	Optical Electronics	CHING FUH LIN	EE2	0 2 4 5 7 8 10 11
+9220 9440	5 6 7 8	3	0	61	Game Programming	BING-YU CHEN	CSIE	1 2 4 9
+9010	2 3 4	3	0	107	Data Structure	PEI-YUAN WU	EE2	3 7 8 13
+9220 9440	5 6 7 8	3	0	44	Computer Gaming Theory	Tsan Sheng Hsu	CSIE	0 1 5 8 10
+9210 9410 9450	5 6 7 8	3	0	28	Solid-state Lasers	CHI-KUANG SUN	BL	0 3 6 7 9
+9010	2 3 4	3	0	44	Algorithms	YU-CHIANG WANG	BL	3 4 6 14
+9010 9450	1 5 6 7 8	4	1	117	Introduction of Biological Sciences	CHUANG, ERIC Y.	BL	0 1 2 3 4 5 6 7 9 10 11 12 13 14
+9010	1	3	1	112	Switching Circuit and Logic Design	Yi-Chang Lu	EE2	2 3 4 7 8 11 12 13
+9020	2	3	1	96	Systems Programming	CHI-SHENG SHIH	CSIE	1 2 6 8 11 13 14
+9220 9450	5 6 7 8	3	0	27	Mathematics Fundamentals for Systems Biology	OYANG, YEN-JEN	CSIE	0 1 2 3 4 5 6 7 9 10 11 12 13
+9020	2	3	1	81	Linear Algebra	LI MING-SUI	CSIE	3 4 7 8
+9010 9450	2 3 4 5 6 7 8	4	0	28	Applied Electricity (Ⅰ)	FOK-CHING CHONG	BL	5 7 8 9 11 14
+9210 9420	5 6 7 8	3	0	30	Error Correcting Codes	MAO CHAO LIN	EE2	1 2 3 8
+9210 9410 9450	5 6 7 8	3	0	41	Optical Nano-electro-mechanical System	JUI-CHE TSAI	EE2	1 3 4 5 11
+9210 9420 9450	5 6 7 8	3	0	95	Presentation and Communication Skills	PING-CHENG YEH	EE2	5 11 12 14
+9210	5 6 7 8	3	0	20	Genetic Algorithms	YU, TIAN-LI	MD	0 1 2 3 4 5 6 7 8 9 10 11 12 14
+9010	3	3	1	56	Electromagnetics (Ⅱ)	HSIANG-CHIEH LEE	EE2	4 5 6 9 12 13 14
+9220 9440	5 6 7 8	3	0	52	System Design Topic - Design for IoT Middleware	CHI-SHENG SHIH	CSIE	1 2 6 8 11 13 14
+9010	2	3	1	101	Switching Circuit and Logic Design	JIE-HONG JIANG	EE2	1 3 4 7 9 10 11 13
+9210 9450	5 6 7 8	3	0	34	Biological Physics	WEN-SHIANG CHEN	MD	0 3 4 7 8 12
+9020	1	3	0	74	Introduction to Computer	YUNG-YU CHUANG	CSIE	0 1 9 10 13
+9010	1	3	1	62	Computer Programming	WAN-JIUN LIAO	BL	0 5 12 14
+9210 9410	5 6 7 8	3	0	26	Mathematical Physics	YEAN-WOEI KIANG	EE2	1 3 5 7 8 10 12 13
+9210 9410 9450	5 6 7 8	3	0	37	Optoelectronic Electromagnetics	HUANG-YEN LIN	BL	2 3 5 9 10 13
+9020	2 3 4	3	0	28	Introduction to Computational Logic	WANG,BOW-YAW	CSIE	7 8 9
+9210 9430	5 6 7 8	3	0	45	Advanced Integrated Circuit Design	AN-YEU(ANDY) WU	BL	0 1 3 4 5 6 7 8 9 10 12 13 14
+9220 9440	5 6 7 8	3	0	40	Introduction to Digital Signal Processing	CHU-SONG CHEN	CSIE	0 1 3 8 13 14
+9020	2 3 4	3	0	32	Compiler Design	WEI-CHUNG HSU	CSIE	0 1 3 7 10 14
+9010	2 3 4	3	0	21	Control Systems	KUEN-YU TSAI	MD	1 2 3 5 8 9 11
+9210 9410	5 6 7 8	3	0	17	Optoelectronic Device Program Simulation	YU-HRENN WU	MD	3 4 5 6 7 8 9 13
+9210 9450	5 6 7 8	3	0	21	Introduction of Biochip Technologies	CHUANG, ERIC Y.	BL	0 1 2 3 4 5 6 7 9 10 11 12 13 14
+9010	2	3	1	97	Engineering Mathematics-differential Equation	TIAN-WEI HUANG	EE2	1 2 3 5 8 10 11 12
+9010	2	3	1	54	Electronics (Ⅰ)	CHAO-HSIN WU	EE2	0 1 3 4 5 7 8 9 10 11 12 13 14
+9220 9440	5 6 7 8	3	0	62	Real-times Systems	TEI-WEI KUO	CSIE	1 3 5 6 7 9 10 11
+9210 9430 9450	5 6 7 8	3	0	102	Patent Opposition and Infringement	SHEY-SHI LU	BL	0 3 6 7 9
+9220 9440	5 6 7 8	3	0	109	Applied Deep Learning	YUN-NUNG CHEN	CSIE	0 4 6 7 8 10 14
+9210 9430	5 6 7 8	3	0	93	Advanced Analog Integrated Circuits	HSIN-SHU CHEN	EE2	0 5 9 11 12 14
+9210 9420 9450	5 6 7 8	3	0	93	Time-frequency Analysis and Wavelet Transform	DING JIAN-JUN	MD	0 1 3 5 7 8 9 10
+9210 9420	5 6 7 8	3	0	39	Information,control and Games	SHI CHUNG CHANG	EE2	2 5 6 9 13 14
+9020	2 3 4	3	0	182	Scientific Computing	JYH-SHING ROGER JANG	CSIE	0 1 3 5 6 7 8 9 10 11 12 13
+9210 9420	5 6 7 8	3	0	43	Information Theory	MAO CHAO LIN	EE2	1 2 3 8
+9210 9420	5 6 7 8	3	0	35	Special Topics on Electromagnetic Theory	JEAN-FU KIANG	BL	0 1 3 4 5 6 8 9 10 11 12 14
+9210 9410 9420	5 6 7 8	3	0	167	Fourier Transform and Fourier Optics	HUNG-CHUN CHANG	EE2	0 3 4 5 9 13 14
+9010	2	3	1	84	Switching Circuit and Logic Design	LIU TSUNG-TE	MD	1 2 3 6 8
+9020	2	3	1	151	Linear Algebra	HSUEH-I LU	CSIE	1 4 5 6 8 10 12
+9010	2 3 4	3	0	83	Algorithms	HUI-RU JIANG	BL	0 1 2 6 7 9 12 14
+9210	5 6 7 8	3	0	25	Robot Sensing and Control	REN C. LUO	BL	1 4 7 9 10 12
+9010	3	3	1	70	Electronics (Ⅲ)	JIUN-YUN LI	EE2	1 5 7 11 13 14
+9220 9440	5 6 7 8	3	0	100	Artificial Intelligence	YUNG-JEN HSU	CSIE	0 2 3 5 7 8 12 13
+9210 9430 9450	5 6 7 8	3	0	40	Operating Systems	FARN WANG	EE2	4 7 10 11
+9020	2 3 4	3	0	85	Programming Techniques	CHENG PU-JEN	CSIE	1 2 3 5 6 7 10 11 12 13 14
+9020	3	3	1	133	Computer Architecture	CHIA-LIN YANG	CSIE	5 6 13
+9010	2 3 4	3	0	108	Introduction to Nano-electronics	CHAO-HSIN WU	EE2	0 1 3 4 5 7 8 9 10 11 12 13 14
